@@ -3,7 +3,7 @@
 
 Pengumpulan tugas pertemuan 6 Mochammad RIzky Firdaus NIM 10122007 dari kelas IF1
 
-<h2 id="layout">🎨 Layout</h2>
+<h2 id="layout">🎨 Hasil Visualisasi dan isi pada menu Produk</h2>
 
 <p align="center">
 
